@@ -2,8 +2,9 @@
 def prime?(number)
   if number <= 1  
     return false
-  elsif number / number<number = number
+  elsif number == 2 
     return true
+  else (2..number/2).none? {
   end
 end
 
