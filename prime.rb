@@ -4,7 +4,5 @@ def prime?(number)
     return false
   elsif number / number<number = number
     return true
-  else number = 4
-    return false
   end
 end
