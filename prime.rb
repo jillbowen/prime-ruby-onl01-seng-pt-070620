@@ -1,1 +1,2 @@
-# Add  code here!
+prime?(numbers)
+numbers = [1..100]
