@@ -1,4 +1,4 @@
 def prime?(numbers)
-  number.do each |number|
+  numbers.do each |number|
    number / number
 end
