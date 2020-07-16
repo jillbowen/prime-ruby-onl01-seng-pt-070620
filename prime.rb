@@ -1,2 +1,3 @@
-prime?(numbers)
-numbers = [1..100]
+def prime?(numbers)
+  number.do each |number|
+end
