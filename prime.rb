@@ -1,6 +1,6 @@
 def prime?(numbers)
    numbers.each do |number|
-     "#{number}" / "#{numbers}"
+     number / numbers
     if any? number == numbers
       return true
     end
