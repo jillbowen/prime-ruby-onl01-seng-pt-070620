@@ -1,6 +1,5 @@
 #require 'pry'
 def prime?(numbers)
-  numbers = []
    numbers.each do |n|
      n / numbers<n
    end
