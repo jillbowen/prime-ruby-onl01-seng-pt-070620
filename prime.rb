@@ -1,5 +1,5 @@
 #require 'pry'
-def prime?(numbers)
+def prime?(number)
   numbers = []
    numbers.each do |n|
      n / numbers<n
