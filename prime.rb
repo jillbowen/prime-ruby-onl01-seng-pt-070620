@@ -1,8 +1,8 @@
 def prime?(numbers)
-   numbers.each do |number|
-     number / numbers
-    if any? number == numbers
-      return true
-    end
+   numbers.each {|n| n/numbers<n}
+   if numbers * n == n 
+     return true 
+   else
+     return fasle 
    end
 end
